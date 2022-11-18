@@ -8,8 +8,8 @@ TwitterSentimentAnalysis.ipynb was used to do sentiment analysis on the datasets
 
 Code Reference: 
 
-Kharwal, Aman. “Add Labels to a Dataset for Sentiment Analysis | Aman Kharwal.” Thecleverprogrammer, 11 Nov. 2021, thecleverprogrammer.com/2021/11/24/add-labels-to-a-dataset-for-sentiment-analysis.
+1. Kharwal, Aman. “Add Labels to a Dataset for Sentiment Analysis | Aman Kharwal.” Thecleverprogrammer, 11 Nov. 2021, thecleverprogrammer.com/2021/11/24/add-labels-to-a-dataset-for-sentiment-analysis.
 
-Hugging Face Forums. “How to Use Gradio Dataframe as Output for an Interface.” Hugging Face Forums, 29 June 2022, discuss.huggingface.co/t/how-to-use-gradio-dataframe-as-output-for-an-interface/19798.
+2. Hugging Face Forums. “How to Use Gradio Dataframe as Output for an Interface.” Hugging Face Forums, 29 June 2022, discuss.huggingface.co/t/how-to-use-gradio-dataframe-as-output-for-an-interface/19798.
 
-Gold, Edem. “How to Build a GUI Using Gradio for Machine Learning Models.” freeCodeCamp.org, 27 Jan. 2022, www.freecodecamp.org/news/build-gui-using-gradio-for-machine-learning-models.
+3. Gold, Edem. “How to Build a GUI Using Gradio for Machine Learning Models.” freeCodeCamp.org, 27 Jan. 2022,    www.freecodecamp.org/news/build-gui-using-gradio-for-machine-learning-models.
